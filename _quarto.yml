@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "Identifying Levers: An Introduction to Causal Inference in Business"
